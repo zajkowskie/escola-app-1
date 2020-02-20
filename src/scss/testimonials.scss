@@ -1,0 +1,42 @@
+.testimonials {
+    &__slider {
+        min-height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+
+        &-quote {
+            opacity: 0.15;
+            position: absolute;
+            top: 0px;
+        }
+    }
+
+    &__content {
+        padding: 0px 80px;
+        max-width: 800px;
+        text-align: center;
+        font-size: 18px;
+        line-height: 30px;
+        color: $fontGray;
+        font-family: 'Yrsa-Regular';
+
+        &-wrapper {
+
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+        }
+    }
+
+    &__left {
+        width: 10%;
+    }
+
+    &__right {
+        width: 10%;
+    }
+}

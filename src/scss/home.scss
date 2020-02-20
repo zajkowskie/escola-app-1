@@ -1,0 +1,32 @@
+.navbar {
+    max-width: 1920px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    height: 130px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    z-index: 10000;
+
+
+    & a {
+        text-decoration: none;
+        text-emphasis: none;
+        font-size: 18px;
+        color: white;
+        padding: 0 25px;
+        font-family: 'Yrsa-Regular', serif;
+    }
+
+    &__logo {
+        position: absolute;
+        left: 90px;
+    }
+}
+
+.section--home {
+    // background-color: $navbarColor;
+
+}
