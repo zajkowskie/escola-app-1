@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/escola-app-1/static/css/main.697d3722.chunk.css",
-    "main.js": "/escola-app-1/static/js/main.ffaef5e3.chunk.js",
-    "main.js.map": "/escola-app-1/static/js/main.ffaef5e3.chunk.js.map",
+    "main.js": "/escola-app-1/static/js/main.fe8c038c.chunk.js",
+    "main.js.map": "/escola-app-1/static/js/main.fe8c038c.chunk.js.map",
     "runtime-main.js": "/escola-app-1/static/js/runtime-main.c4f3aa91.js",
     "runtime-main.js.map": "/escola-app-1/static/js/runtime-main.c4f3aa91.js.map",
     "static/js/2.2995d594.chunk.js": "/escola-app-1/static/js/2.2995d594.chunk.js",
     "static/js/2.2995d594.chunk.js.map": "/escola-app-1/static/js/2.2995d594.chunk.js.map",
     "index.html": "/escola-app-1/index.html",
-    "precache-manifest.36857ee3f11b90339c85432ff9f176f0.js": "/escola-app-1/precache-manifest.36857ee3f11b90339c85432ff9f176f0.js",
+    "precache-manifest.fe074e4c2f10072b4e0ca0dc92bacdba.js": "/escola-app-1/precache-manifest.fe074e4c2f10072b4e0ca0dc92bacdba.js",
     "service-worker.js": "/escola-app-1/service-worker.js",
     "static/css/main.697d3722.chunk.css.map": "/escola-app-1/static/css/main.697d3722.chunk.css.map",
     "static/js/2.2995d594.chunk.js.LICENSE.txt": "/escola-app-1/static/js/2.2995d594.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.c4f3aa91.js",
     "static/js/2.2995d594.chunk.js",
     "static/css/main.697d3722.chunk.css",
-    "static/js/main.ffaef5e3.chunk.js"
+    "static/js/main.fe8c038c.chunk.js"
   ]
 }
