@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/escola-app-1/static/css/main.697d3722.chunk.css",
-    "main.js": "/escola-app-1/static/js/main.9b37deae.chunk.js",
-    "main.js.map": "/escola-app-1/static/js/main.9b37deae.chunk.js.map",
+    "main.css": "/escola-app-1/static/css/main.d1f89127.chunk.css",
+    "main.js": "/escola-app-1/static/js/main.e1e4e4bb.chunk.js",
+    "main.js.map": "/escola-app-1/static/js/main.e1e4e4bb.chunk.js.map",
     "runtime-main.js": "/escola-app-1/static/js/runtime-main.c4f3aa91.js",
     "runtime-main.js.map": "/escola-app-1/static/js/runtime-main.c4f3aa91.js.map",
-    "static/js/2.e6fa4adf.chunk.js": "/escola-app-1/static/js/2.e6fa4adf.chunk.js",
-    "static/js/2.e6fa4adf.chunk.js.map": "/escola-app-1/static/js/2.e6fa4adf.chunk.js.map",
+    "static/js/2.0ff3b18d.chunk.js": "/escola-app-1/static/js/2.0ff3b18d.chunk.js",
+    "static/js/2.0ff3b18d.chunk.js.map": "/escola-app-1/static/js/2.0ff3b18d.chunk.js.map",
     "index.html": "/escola-app-1/index.html",
-    "precache-manifest.c7101e65479bbd65495510061139e7a2.js": "/escola-app-1/precache-manifest.c7101e65479bbd65495510061139e7a2.js",
+    "precache-manifest.0b56a40bb6e4a0e65b5ccc1fb0c35004.js": "/escola-app-1/precache-manifest.0b56a40bb6e4a0e65b5ccc1fb0c35004.js",
     "service-worker.js": "/escola-app-1/service-worker.js",
-    "static/css/main.697d3722.chunk.css.map": "/escola-app-1/static/css/main.697d3722.chunk.css.map",
-    "static/js/2.e6fa4adf.chunk.js.LICENSE.txt": "/escola-app-1/static/js/2.e6fa4adf.chunk.js.LICENSE.txt",
+    "static/css/main.d1f89127.chunk.css.map": "/escola-app-1/static/css/main.d1f89127.chunk.css.map",
+    "static/js/2.0ff3b18d.chunk.js.LICENSE.txt": "/escola-app-1/static/js/2.0ff3b18d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/escola-app-1/static/media/Yrsa-Medium.e644d03d.ttf",
     "static/media/Roboto-Regular.ttf": "/escola-app-1/static/media/Roboto-Regular.11eabca2.ttf",
-    "static/media/Yrsa-Regular.ttf": "/escola-app-1/static/media/Yrsa-Regular.2e1f5e04.ttf"
+    "static/media/Yrsa-Regular.ttf": "/escola-app-1/static/media/Yrsa-Regular.2e1f5e04.ttf",
+    "static/media/contact__arrows-left.png": "/escola-app-1/static/media/contact__arrows-left.07c1fe85.png",
+    "static/media/team__player-1.png": "/escola-app-1/static/media/team__player-1.8da6ea43.png",
+    "static/media/user-thumb-1.png": "/escola-app-1/static/media/user-thumb-1.5ef0f72a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c4f3aa91.js",
-    "static/js/2.e6fa4adf.chunk.js",
-    "static/css/main.697d3722.chunk.css",
-    "static/js/main.9b37deae.chunk.js"
+    "static/js/2.0ff3b18d.chunk.js",
+    "static/css/main.d1f89127.chunk.css",
+    "static/js/main.e1e4e4bb.chunk.js"
   ]
 }
