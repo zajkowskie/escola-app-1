@@ -1,4 +1,6 @@
 import React from 'react';
+// import slide1 from '../../img/home__slide-1.png'
+// import slide2 from '../../img/home__slide-2.png'
 
 function Slider() {
     return (

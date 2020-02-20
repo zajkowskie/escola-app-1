@@ -5,6 +5,7 @@ function UserThumb(props) {
     <div className="user-thumb">
 
         <div className="user-thumb__icon">
+            {console.log(props.userInfo.icon)}
             <img src={props.userInfo.icon}/>
         </div>
         <div className="user-thumb__content">

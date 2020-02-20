@@ -1,10 +1,11 @@
 import React from 'react';
+import footerImage from './img/footer__arrow.png';
 
 function Footer() {
   return (
     <div className="footer">
         <a href="#home">
-            <img src="/assets/img/footer__arrow.png" />Back to top
+            <img src={footerImage} />Back to top
         </a>
     </div>
   );

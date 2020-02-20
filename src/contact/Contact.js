@@ -1,12 +1,14 @@
 import React from 'react';
 import SectionTitle from '../components/SectionTitle';
+import arrowLeft from '../img/contact__arrows-left.png';
+import arrowRight from '../img/contact__arrows-right.png';
 
 function Contact() {
     return (
         <section className="section section--contact" id="contact">
             <SectionTitle title="Contact with us" description="Let's talk"/>
-            <img  className="contact__arrows contact__arrows-left" src="/assets/img/contact__arrows-left.png" />
-            <img  className="contact__arrows contact__arrows-right"  src="/assets/img/contact__arrows-right.png" />
+            <img  className="contact__arrows contact__arrows-left" src={arrowLeft} />
+            <img  className="contact__arrows contact__arrows-right"  src={arrowRight} />
 
 
           <form className="contact__form"> 

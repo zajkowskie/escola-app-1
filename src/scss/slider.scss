@@ -129,11 +129,13 @@
     }
 
     .slide-1 {
-        background-image: url('/assets/img/home__slide-1.png');
+        // background-image: local('/img/home__slide-1.png');
+        background-image: url(../img/home__slide-1.png)
     }
 
     .slide-2 {
-        background-image: url('/assets/img/home__slide-2.png');
+        // background-image: url('/assets/img/home__slide-2.png');
+        background-image: url(../img/home__slide-2.png);
         left: 100%;
     }
 
