@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "669893a75846ce154bba01be66dd9fb3",
+    "revision": "2f99dbaeba5f77b0036cced6271b6fb2",
     "url": "/escola-app-1/index.html"
   },
   {
-    "revision": "43fb85df5feac8080d40",
+    "revision": "14547d8cabfd232421f5",
     "url": "/escola-app-1/static/css/main.697d3722.chunk.css"
   },
   {
-    "revision": "19a141d04a2b2ebeaca6",
-    "url": "/escola-app-1/static/js/2.2995d594.chunk.js"
+    "revision": "969546786f6bd83291f8",
+    "url": "/escola-app-1/static/js/2.e6fa4adf.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/escola-app-1/static/js/2.2995d594.chunk.js.LICENSE.txt"
+    "url": "/escola-app-1/static/js/2.e6fa4adf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43fb85df5feac8080d40",
-    "url": "/escola-app-1/static/js/main.fe8c038c.chunk.js"
+    "revision": "14547d8cabfd232421f5",
+    "url": "/escola-app-1/static/js/main.9b37deae.chunk.js"
   },
   {
     "revision": "fb228b7228b20b452a8e",
